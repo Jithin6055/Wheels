@@ -1,7 +1,7 @@
-
+Django>=4.0,<5.0 
 django-light
 django-allauth
-Django>=3.2,<4.0  
+
 djangorestframework
 django-crispy-forms
 Pillow
