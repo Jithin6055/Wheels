@@ -1,4 +1,4 @@
 Django==5.1
 google-generativeai==0.8.2
 gunicorn==23.0.0
-django-light==0.1.0.post3
+django-light==0.1.0
