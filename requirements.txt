@@ -16,3 +16,4 @@ openpyxl
 stripe
 django-allauth
 django-jazzmin
+django-admin-tools-stats
